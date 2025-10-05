@@ -25,7 +25,7 @@ const itemsData = [
       "Gold"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Normal",
     "keywords": [
       "wireless",
@@ -70,7 +70,7 @@ const itemsData = [
       "Black"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Normal",
     "keywords": [
       "wireless",
@@ -119,7 +119,7 @@ const itemsData = [
       "Red"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Normal",
     "keywords": [
       "wireless",
@@ -165,7 +165,7 @@ const itemsData = [
       "Red"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Normal",
     "keywords": [
       "wireless",
@@ -211,7 +211,7 @@ const itemsData = [
       "Green"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Normal",
     "keywords": [
       "wireless",
@@ -258,7 +258,7 @@ const itemsData = [
       "Gray"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Normal",
     "keywords": [
       "wireless",
@@ -303,7 +303,7 @@ const itemsData = [
       "Pink"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Normal",
     "keywords": [
       "wireless",
@@ -347,7 +347,7 @@ const itemsData = [
       "White"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Gaming",
     "keywords": [
       "wireless",
@@ -394,7 +394,7 @@ const itemsData = [
       "Blue"
     ],
     "category": "Electronics",
-    "series": "AST-G",
+    "series": "Gold",
     "mood": "Gaming",
     "keywords": [
       "wireless",
